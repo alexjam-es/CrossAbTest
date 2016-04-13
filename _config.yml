@@ -1,14 +1,14 @@
 # ------------------------------------------------------------------------
 # Site settings
 title: Cross about ... | A Noobs guide to podcasting
-name: Bunglelow
-email: bunglelow@hotmail.com
+name: AlexJam-es
+email: alex@alexjam.es
 description: > # this means to ignore newlines until "baseurl:"
   cross about ... podcasting
-author: Bunglelow
-copyright: Copyright © Cross about ... • All Rights Reserved
+author: AlexJam-es
+copyright: Copyright 2016© Cross about ... • All Rights Reserved
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://alexjam.es" # the base hostname & protocol for your site
+url: http://alexjam.es/CrossAbTest # the base hostname & protocol for your site
 twitter_username: crossaboutpodcast
 
 # ------------------------------------------------------------------------
@@ -66,11 +66,11 @@ rss_post_limit: 10
 # ------------------------------------------------------------------------
 
 # The homepage of your podcast
-podcast_url: http://www.alexjam.es/podcast
+podcast_url: http://alexjam.es/CrossAbTest/podcast
 podcast_album_art: /assets/base/avatar_original.jpg
 podcast_title: Test Podcast
 podcast_owner: Cross About ...
-podcast_email: bunglelow@hotmail.com
+podcast_email: alex@alexjam.es
 podcast_category: Testing
 podcast_subcategory_one: Toys
 podcast_subcategory_two: Warmachine

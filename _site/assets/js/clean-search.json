@@ -1,0 +1,31 @@
+{
+	"clean_search" : [
+		{	"title":"02: Actual non introductory content you shit bag",
+			"image":"/assets/posts/monochrome_avatar.png",
+			"permalink":"/02/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"Wargaming",
+				"Warmachine and Hordes"
+			],
+			"excerpt": "<p>This is where we stop messing around and actually give people some content</p>\n\n",
+			"content": "This%20is%20where%20we%20stop%20messing%20around%20and%20actually%20give%20people%20some%20content%0A%0A%0A@YourPodcastGoesHGere%0A%0A@Bunglelow%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
+		{	"title":"01: A new podcaster appears",
+			"image":"/assets/posts/monochrome_2_avatar.png",
+			"permalink":"/01/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"Wargaming",
+				"Warmachine and Hordes"
+			],
+			"excerpt": "<p>This is the introduction show, hopefully its not shit</p>\n\n",
+			"content": "This%20is%20the%20introduction%20show,%20hopefully%20its%20not%20shit%0A%0A%0A@YourPodcastGoesHere%0A%0A@Bunglelow%0A%0ASubscribe%20on%20iTunes%0A"
+		}
+	]
+}

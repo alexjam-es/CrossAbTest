@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+>
+ 
+<channel>
+<title>Test Podcast</title>
+<atom:link href="http://alexjam.es/feed/podcast" rel="self" type="application/rss+xml" />
+<link>http://alexjam.es</link>
+<description>This is a test podcast for CGC</description>
+<lastBuildDate>Wed, 13 Apr 2016 12:50:01 -0500</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>http://jekyllrb.com</generator>
+<itunes:summary>A bunch of newbs talk about their gaming habits</itunes:summary>
+<itunes:author>Cross about</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://alexjam.es/assets/base/avatar_original.jpg" />
+<itunes:owner>
+<itunes:name>Cross About ...</itunes:name>
+<itunes:email>bunglelow@hotmail.com</itunes:email>
+</itunes:owner>
+<managingEditor>bunglelow@hotmail.com (Cross About ...)</managingEditor>
+<itunes:subtitle>WMH talk from Cross gaming club</itunes:subtitle>
+<image>
+<title>Test Podcast</title>
+<url>http://alexjam.es/assets/base/avatar_original.jpg</url>
+<link>http://alexjam.es</link>
+</image>
+<itunes:category text="Testing">
+<itunes:category text="Toys" />
+<itunes:category text="Warmachine" />
+</itunes:category>
+
+  <item>
+    <title>02: Actual non introductory content you shit bag</title>
+    <link>http://alexjam.es/02/</link>
+    <comments>http://alexjam.es/02/#comments</comments>
+    <pubDate>Tue, 12 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Bunglelow]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[Wargaming]]></category>
+
+    <category><![CDATA[Warmachine and Hordes]]></category>
+
+    <guid isPermaLink="true">http://alexjam.es/02/</guid>
+    <description>
+        <![CDATA[This is where we stop messing around and actually give people some content
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>This is where we stop messing around and actually give people some content
+<!--more--></p>
+
+<p><a href="https://twitter.com/YourPodcast">@YourPodcastGoesHGere</a></p>
+
+<p><a href="https://twitter.com/Bunglelow">@Bunglelow</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/muse-on-minis/id484814606">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://feeds.soundcloud.com/stream/257816270-hdtgm-prequel-to-episode-134.mp3" length="30924226" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[This is where we stop messing around and actually give people some content
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>This is where we stop messing around and actually give people some content
+<!--more--></p>
+
+<p><a href="https://twitter.com/YourPodcast">@YourPodcastGoesHGere</a></p>
+
+<p><a href="https://twitter.com/Bunglelow">@Bunglelow</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/muse-on-minis/id484814606">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Cross about</itunes:author>
+    <itunes:image href="http://alexjam.es/assets/base/avatar_original.jpg" />
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:duration>00:36:53</itunes:duration>
+  </item>
+
+  <item>
+    <title>01: A new podcaster appears</title>
+    <link>http://alexjam.es/01/</link>
+    <comments>http://alexjam.es/01/#comments</comments>
+    <pubDate>Mon, 11 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Bunglelow]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[Wargaming]]></category>
+
+    <category><![CDATA[Warmachine and Hordes]]></category>
+
+    <guid isPermaLink="true">http://alexjam.es/01/</guid>
+    <description>
+        <![CDATA[This is the introduction show, hopefully its not shit
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>This is the introduction show, hopefully its not shit
+<!--more--></p>
+
+<p><a href="https://twitter.com/YourPodcast">@YourPodcastGoesHere</a></p>
+
+<p><a href="https://twitter.com/Bunglelow">@Bunglelow</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/muse-on-minis/id484814606">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="/assets/content/Distance.mp3" length="11675947" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[This is the introduction show, hopefully its not shit
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>This is the introduction show, hopefully its not shit
+<!--more--></p>
+
+<p><a href="https://twitter.com/YourPodcast">@YourPodcastGoesHere</a></p>
+
+<p><a href="https://twitter.com/Bunglelow">@Bunglelow</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/muse-on-minis/id484814606">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Cross about</itunes:author>
+    <itunes:image href="http://alexjam.es/assets/base/avatar_original.jpg" />
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:duration>00:04:42</itunes:duration>
+  </item>
+
+</channel>
+</rss>

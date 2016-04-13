@@ -1,0 +1,81 @@
+# ------------------------------------------------------------------------
+# Site settings
+title: Cross about ... | A Noobs guide to podcasting
+name: Bunglelow
+email: bunglelow@hotmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  cross about ... podcasting
+author: Bunglelow
+copyright: Copyright © Cross about ... • All Rights Reserved
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://alexjam.es" # the base hostname & protocol for your site
+twitter_username: crossaboutpodcast
+
+# ------------------------------------------------------------------------
+# Build settings
+markdown: kramdown
+timezone: America/Chicago
+destination: _site
+gems:
+  - jekyll
+  - jekyll-sitemap
+  - jekyll/tagging
+  - jekyll-gist
+  - kramdown
+  - jekyll-watch
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed/index.xml"
+        - "/feed/podcast/index.xml"
+        - "/400.html"
+        - "/401.html"
+        - "/403.html"
+        - "/404.html"
+        - "/500.html"
+    include_posts:
+        - "/index.html"
+        - "/podcast/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
+
+# ------------------------------------------------------------------------
+# Post settings
+excerpt_separator: <!--more-->
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+      author: "Alex James"
+
+# ------------------------------------------------------------------------
+# RSS Settings
+
+rss_path: /feed
+rss_name: index.xml
+rss_post_limit: 10
+
+# Podcast General Settings
+# ------------------------------------------------------------------------
+
+# The homepage of your podcast
+podcast_url: http://www.alexjam.es/podcast
+podcast_album_art: /assets/base/avatar_original.jpg
+podcast_title: Test Podcast
+podcast_owner: Cross About ...
+podcast_email: bunglelow@hotmail.com
+podcast_category: Testing
+podcast_subcategory_one: Toys
+podcast_subcategory_two: Warmachine
+podcast_explicit: "yes"
+podcast_author: Cross about
+podcast_description: This is a test podcast for CGC
+podcast_summary: A bunch of newbs talk about their gaming habits
+podcast_subtitle: WMH talk from Cross gaming club
